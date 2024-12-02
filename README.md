@@ -33,7 +33,7 @@ also see [docs](docs):
 
 ## Release Notes
 
-### [1.0.0](https://gitlab.cc-asp.fraunhofer.de/cpps/skillbasedcontrolframework/python_skillcommunication/compare/0.7.1...1.0.0) (2024-12-02)
+### [1.0.0](https://github.com/cognitive-production/skillbasedcontrol-client/compare/1.0.0...1.0.0) (2024-12-02)
 > Rename package to sbc_communication!
 
 #### Upgrade Steps
