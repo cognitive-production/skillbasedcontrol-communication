@@ -1,0 +1,2 @@
+Put your own private key as "opc_certificate.der" and certificate as "opc_certificate.der" here.
+Then the sbc_communicaiton package is using them automaticly.
