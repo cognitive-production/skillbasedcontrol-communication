@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">
-<span style="color:#005B7F;">SkillBasedControl (SBC)</span> Client
+<span style="color:#005B7F;">SkillBasedControl (SBC)</span> Communication
 </h1>
 
 ## Description
@@ -8,17 +8,17 @@ This python package provides a high level class for communicating with skills im
 ## How to pip install
 #### with existing python evnironment:
 ```
-pip install git+https://github.com/cognitive-production/skillbasedcontrol-client
+pip install git+https://github.com/cognitive-production/skillbasedcontrol-communication
 or try
-pip install git+https://user:password@github.com/cognitive-production/skillbasedcontrol-client
+pip install git+https://user:password@github.com/cognitive-production/skillbasedcontrol-communication
 ```
 #### with new conda environment:
 ```
 conda create -n sbc-communication python=3.10
 conda activate sbc-communication
-pip install git+https://github.com/cognitive-production/skillbasedcontrol-client
+pip install git+https://github.com/cognitive-production/skillbasedcontrol-communication
 or try
-pip install git+https://user:password@github.com/cognitive-production/skillbasedcontrol-client
+pip install git+https://user:password@github.com/cognitive-production/skillbasedcontrol-communication
 ```
 
 ## Documentation
@@ -33,7 +33,7 @@ also see [docs](docs):
 
 ## Release Notes
 
-### [1.0.0](https://github.com/cognitive-production/skillbasedcontrol-client/compare/1.0.0...1.0.0) (2024-12-02)
+### [1.0.0](https://github.com/cognitive-production/skillbasedcontrol-communication/compare/1.0.0...1.0.0) (2024-12-02)
 > Rename package to sbc_communication!
 
 #### Upgrade Steps
